@@ -77,4 +77,15 @@ body {
     color: grey;
     position: absolute;
 }
+header {
+    text-align: center;
+    position: fixed;
+    top: 50px;
+    padding: 4px 4px 4px 4px;
+    z-index: 10;
+    /*background: #2196f3;*/
+    /*border: solid 5px #2196f3;*/
+    /*box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;*/
+}
+
 
